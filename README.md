@@ -13,5 +13,5 @@ The initial version shows a bad implementation with deterministic randomness.
 - work out how the age of a person counts into the cpf
 
 # storage
-validator https://www.freetool.dev/cpf-generator-validator
-structure http://clubes.obmep.org.br/blog/a-matematica-nos-documentos-cpf/
+[validator](https://www.freetool.dev/cpf-generator-validator)<br>
+[structure](http://clubes.obmep.org.br/blog/a-matematica-nos-documentos-cpf/)
